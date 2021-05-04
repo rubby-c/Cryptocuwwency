@@ -3,7 +3,7 @@ A discord bot that checks btc, eth, other coins and stock prices.
 
 ## How to build?
 - Make a bot application here https://discord.com/developers/applications
-- Copy paste the token in [Program.cs](https://github.com/rubby-c/Cryptocuwwency/cryptocuwwency/Program.cs).
+- Copy paste the token in [Program.cs](https://github.com/rubby-c/Cryptocuwwency/blob/main/cryptocuwwency/Program.cs).
 
 ```c#
 var discord = new DiscordClient(new DiscordConfiguration()
