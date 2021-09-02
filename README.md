@@ -1,5 +1,5 @@
 # Cryptocuwwency
-A discord bot that checks btc, eth, other coins and stock prices.
+A discord bot that checks btc, eth, other coins and stock prices. Uses the coingecko public api.
 
 ## How to build?
 - Make a bot application here https://discord.com/developers/applications
