@@ -1,4 +1,4 @@
-# Cryptocuwwency
+# Cryptoexplorer Bot
 A discord bot that checks btc, eth, other coins and stock prices. Uses the coingecko public api.
 
 ## How to build?
